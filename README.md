@@ -359,7 +359,7 @@ And that's the point.
 
 <a href="mailto:SEU_EMAIL">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF1744"/>
-<a href="mailto:juliavictgentil2009@exemplo.com">Enviar e-mail</a>
+<a href="mailto:juliavictgentil2009@exemplo.com"</a>
 </a>
 
 </div>
