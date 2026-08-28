@@ -36,14 +36,14 @@ alt="Typing Animation"
 ║                         USER PROFILE                         ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  NAME       :: Júlia Victoria                               ║
-║  ROLE       :: Student & Technology Enthusiast              ║
-║  FOCUS      :: Programming • AI • Robotics                  ║
+║  NAME       :: Júlia Victoria Gentil                         ║
+║  ROLE       :: Student & Technology Enthusiast               ║
+║  FOCUS      :: Programming • AI • Robotics                   ║
 ║  FIELD      :: Computer Science                              ║
-║  STATUS     :: Learning / Building / Experimenting          ║
-║  LOCATION   :: Brazil 🇧🇷                                    ║
+║  STATUS     :: Learning / Building / Experimenting           ║
+║  LOCATION   :: Brazil 🇧🇷                                     ║
 ║                                                              ║
-║  CURRENT MODE :: CREATE > TEST > FAIL > LEARN > REPEAT      ║
+║  CURRENT MODE :: CREATE > TEST > FAIL > LEARN > REPEAT       ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -61,7 +61,7 @@ My journey currently combines **software, hardware, robotics, computer vision an
 ```text
 ┌──────────────────────────────────────────────┐
 │                                              │
-│  CURIOUSITY  →  IDEA  →  PROTOTYPE          │
+│  CURIOUSITY  →  IDEA  →  PROTOTYPE           │
 │                         ↓                    │
 │                    EXPERIMENT                │
 │                         ↓                    │
@@ -227,7 +227,6 @@ Websites and interfaces created while learning software and web development.
 ```text
 HTML
 CSS
-JavaScript
 Git
 GitHub
 ```
@@ -273,7 +272,7 @@ Connect technology with meaningful problems and practical solutions.
 
 ```text
 ╔════════════════════════════════════════════╗
-║              LEARNING MATRIX              ║
+║              LEARNING MATRIX               ║
 ╠════════════════════════════════════════════╣
 ║                                            ║
 ║  PYTHON              ████████░░  ACTIVE    ║
@@ -387,21 +386,6 @@ $ ./future.exe
 
 ---
 
-# `> INTERESTS`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logoColor=FF1744"/>
-<img src="https://img.shields.io/badge/Robotics-0D1117?style=for-the-badge&logo=robotframework&logoColor=FF1744"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=FF1744"/>
-<img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=FF1744"/>
-<img src="https://img.shields.io/badge/Game%20Development-0D1117?style=for-the-badge&logo=gamemaker&logoColor=FF1744"/>
-<img src="https://img.shields.io/badge/Research-0D1117?style=for-the-badge&logo=academia&logoColor=FF1744"/>
-
-</div>
-
----
-
 # `> SYSTEM_LOG`
 
 ```text
@@ -434,6 +418,7 @@ And that's the point.
 
 <a href="SEU_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF1744"/>
+     <a href src="https://www.linkedin.com/in/j%C3%BAlia-victoria-gentil-9727403ba/">
 </a>
 
 <a href="SEU_PORTFOLIO">
@@ -442,6 +427,7 @@ And that's the point.
 
 <a href="mailto:SEU_EMAIL">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF1744"/>
+<a href="mailto:juliavictgentil2009@exemplo.com">Enviar e-mail</a>
 </a>
 
 </div>
@@ -455,11 +441,11 @@ And that's the point.
 ```text
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║              SYSTEM STATUS: ONLINE                  ║
+║              SYSTEM STATUS: ONLINE                   ║
 ║                                                      ║
-║              LEARN. BUILD. ITERATE.                 ║
+║              LEARN. BUILD. ITERATE.                  ║
 ║                                                      ║
-║                  JÚLIA VICTORIA                     ║
+║                  JÚLIA VICTORIA                      ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
