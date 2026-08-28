@@ -251,8 +251,6 @@ Academic and scientific projects exploring technology and its applications to re
 Research
 Technology
 Data
-Problem Solving
-Scientific Thinking
 ```
 
 **Goal**
@@ -275,7 +273,7 @@ Connect technology with meaningful problems and practical solutions.
 ║              LEARNING MATRIX               ║
 ╠════════════════════════════════════════════╣
 ║                                            ║
-║  PYTHON              ████████░░  ACTIVE    ║
+║  PYTHON               ████████░░  ACTIVE   ║
 ║  WEB DEVELOPMENT      ███████░░░  ACTIVE   ║
 ║  ROBOTICS             ████████░░  ACTIVE   ║
 ║  ARTIFICIAL INTEL.    ██████░░░░  LEARNING ║
@@ -284,72 +282,6 @@ Connect technology with meaningful problems and practical solutions.
 ║                                            ║
 ╚════════════════════════════════════════════╝
 ```
-
-</div>
-
----
-
-# `> GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF1744&icon_color=FF1744&text_color=FFFFFF"
-/>
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF1744&text_color=FFFFFF"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&background=0D1117&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"
-/>
-
-</div>
-
----
-
-# `> ACTIVITY_GRAPH`
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=FFFFFF&line=FF1744&point=FFFFFF&area=true&hide_border=true"
-width="95%"
-/>
-
-</div>
-
----
-
-# `> TROPHY_SYSTEM`
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
-/>
-
-</div>
-
----
-
-# `> CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"
-/>
 
 </div>
 
