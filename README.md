@@ -344,7 +344,7 @@ And that's the point.
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/juliasenaispcrz-ux/juliasenaispcrz-ux">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF1744"/>
 </a>
 
@@ -355,11 +355,11 @@ And that's the point.
 
 <a href="SEU_PORTFOLIO">
 <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FF1744"/>
+     
 </a>
 
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF1744"/>
 <a href="mailto:juliavictgentil2009@exemplo.com"</a>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF1744"/>
 </a>
 
 </div>
